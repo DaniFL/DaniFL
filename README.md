@@ -5,15 +5,14 @@
 
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
+<br> 
+
 - 🌱 I’m currently learning **Python, C#, AWS**
 
 - 👨‍💻 I'm currently enrolled in a course **CCNA - Cisco**
 
 - 📫 How to reach me **danielfernandezlopez75@gmail.com**
-
-<br> 
-<br> 
-
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/danielfernandezlopezlink" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/danielfernandezlopezlink" height="30" width="40" /></a>
