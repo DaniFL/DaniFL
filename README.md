@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel Fernández López</h1>
-<h3 align="center">A passionate developer student from Spain</h3>
+<h3 align="center">A passionate developer student</h3>
 
 <br> 
 
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Python, C#, AWS**
 
-- 👨‍💻 I'm currently enrolled in a course **CCNA - Cisco**
+- 👨‍💻 I'm currently enrolled in my last year of **Computer Science Engineering Degree**
 
 - 📫 How to reach me **danielfernandezlopez75@gmail.com**
   
