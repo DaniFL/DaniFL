@@ -7,7 +7,7 @@
 
 <br> 
 
-- 🌱 I’m currently learning **Python, C#, AWS**
+- 🌱 I’m currently learning **Python, HTML, CSS, JAVASCRIPT**
 
 - 👨‍💻 I'm currently enrolled in my last year of **Computer Science Engineering Degree**
 
